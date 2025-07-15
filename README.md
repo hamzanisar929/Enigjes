@@ -38,3 +38,7 @@ Stack	Tools
 > AI / Voice	Python, ChatGPT API, ElevenLabs, Trae AI, Whisper
 > Systems	C/C++, Linux, Multithreading, Bash
 > Other	Git, Docker, Postman, Render, VSCode, Netlify
+
+
+📊 GitHub Stats
+<p align="center"> <img width="400" src="https://github-readme-stats.vercel.app/api?username=Enigjes&show_icons=true&theme=radical" /> <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigjes&layout=compact&theme=radical" /> </p>

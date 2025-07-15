@@ -41,5 +41,20 @@ Stack	Tools
 ```
 
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center"> <img width="400" src="https://github-readme-stats.vercel.app/api?username=Enigjes&show_icons=true&theme=radical" /> <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigjes&layout=compact&theme=radical" /> </p>
+
+### 🧩 Fun Terminal Snippets
+$ whoami
+Enigjes
+
+$ passion --find "tech"
+🎤 Voice AI
+⚙️ C++ Daemons
+🌐 Web Systems
+
+$ goals --2025
+✅ Deploy full-stack AI tool
+✅ Build emotional, memory-based AI
+✅ Launch open-source dev tools
+

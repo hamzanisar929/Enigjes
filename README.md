@@ -38,6 +38,7 @@ Stack	Tools
 > AI / Voice	Python, ChatGPT API, ElevenLabs, Trae AI, Whisper
 > Systems	C/C++, Linux, Multithreading, Bash
 > Other	Git, Docker, Postman, Render, VSCode, Netlify
+```
 
 
 📊 GitHub Stats

@@ -30,6 +30,8 @@
 > I build projects that listen, respond, and *remember*.
 ```
 
+---
+
 ### 🛠️ Tech Stack
 Stack	Tools
 ```bash
@@ -40,24 +42,16 @@ Stack	Tools
 > Other	Git, Docker, Postman, Render, VSCode, Netlify
 ```
 
+---
 
 ### 📊 GitHub Stats
 <p align="center"> <img width="400" src="https://github-readme-stats.vercel.app/api?username=Enigjes&show_icons=true&theme=radical" /> <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigjes&layout=compact&theme=radical" /> </p>
 
-### 🧩 Fun Terminal Snippets
-$ whoami
-Enigjes
-
-$ passion --find "tech"
-🎤 Voice AI
-⚙️ C++ Daemons
-🌐 Web Systems
-
-$ goals --2025
-✅ Deploy full-stack AI tool
-✅ Build emotional, memory-based AI
-✅ Launch open-source dev tools
+---
 
 ### ✨ GitHub Trophy Case
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Enigjes&theme=radical&margin-w=15&no-bg=true&row=2&column=3" /> </p>
+
+
+---
 

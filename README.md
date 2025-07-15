@@ -28,3 +28,13 @@
 ```bash
 > AI Voice Developer | Linux Daemon Crafter | System Thinker
 > I build projects that listen, respond, and *remember*.
+```
+
+### 🛠️ Tech Stack
+Stack	Tools
+```bash
+> Frontend	React, Tailwind, Vite, ShadCN, Figma
+> Backend	Node.js, Express, TypeORM, MySQL, SQLite3
+> AI / Voice	Python, ChatGPT API, ElevenLabs, Trae AI, Whisper
+> Systems	C/C++, Linux, Multithreading, Bash
+> Other	Git, Docker, Postman, Render, VSCode, Netlify

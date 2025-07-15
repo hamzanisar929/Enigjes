@@ -2,7 +2,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Enigjes.;AI+Engineer+%7C+Voice+Tech+%7C+Linux+Dev.;I+code+with+logic%2C+humor+%26+fire+%F0%9F%94%A5" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Enigjes.;AI+Engineer+%7C+Bcakend+Developer+Tech+%7C+Frontend+Developer.;I+code+with+logic%2C+humor+%26+fire+%F0%9F%94%A5" alt="Typing animation" />
 </p>
 
 <!-- Badges -->

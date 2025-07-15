@@ -52,6 +52,9 @@ Stack	Tools
 ### ✨ GitHub Trophy Case
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Enigjes&theme=radical&margin-w=15&no-bg=true&row=2&column=3" /> </p>
 
-
 ---
 
+### 📬 Contact & Links
+<p align="center"> <a href="mailto:enigjes.dev@gmail.com"><img src="https://img.shields.io/badge/email-enigjes.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/enigjes"><img src="https://img.shields.io/badge/linkedin-Enigjes-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://github.com/Enigjes"><img src="https://img.shields.io/badge/github-Enigjes-181717?style=for-the-badge&logo=github"></a> </p>
+
+---

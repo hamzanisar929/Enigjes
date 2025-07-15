@@ -58,3 +58,6 @@ $ goals --2025
 ✅ Build emotional, memory-based AI
 ✅ Launch open-source dev tools
 
+### ✨ GitHub Trophy Case
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Enigjes&theme=radical&margin-w=15&no-bg=true&row=2&column=3" /> </p>
+
